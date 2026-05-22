@@ -9,3 +9,8 @@ experiments/RL/new/ppo/
 *.zip
 *.txt
 *.onnx
+checkpoints/
+wandb/
+.venv/
+.kaggle_dataset/
+disney_bdx_paper.pdf
